@@ -1,0 +1,8 @@
+{
+  "name": "redux-mx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rainrcn/redux-mx.git",
+  "author": "rainrcn <raincn@live.com>",
+  "license": "Apache License 2.0"
+}
